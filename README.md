@@ -1,6 +1,6 @@
 ex-branches blue
 ===========
-This is a fun class. 
+This is a fun class. But it's fast and furious.
 
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
